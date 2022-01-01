@@ -1,8 +1,11 @@
 {
-  "name": "mi-store-clone",
+  "name": "MovieBox",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.24.0",
     "bootstrap": "^5.1.3",
     "cra-template": "1.1.3",
     "react": "17.0.2",
